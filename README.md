@@ -1,2 +1,2 @@
 # mountain_service_final
-the good one
+3D rendering algorithm for a multiplayer game; part of a class project
